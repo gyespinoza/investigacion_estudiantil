@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Investigación Estudiantil</title>
-	<atom:link href="https://gyespinoza.github.io/investigacion_estudiantil/index.php/feed/" rel="self" type="application/rss+xml" />
+	<title>Posters de Investigación 2023 &#8211; Investigación Estudiantil</title>
+	<atom:link href="https://gyespinoza.github.io/investigacion_estudiantil/index.php/category/posters-de-investigacion-2023/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gyespinoza.github.io/investigacion_estudiantil</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 May 2023 21:15:35 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://gyespinoza.github.io/investigacion_estudiantil/wp-content/uploads/2023/05/book-2.png</url>
-	<title>Investigación Estudiantil</title>
+	<title>Posters de Investigación 2023 &#8211; Investigación Estudiantil</title>
 	<link>https://gyespinoza.github.io/investigacion_estudiantil</link>
 	<width>32</width>
 	<height>32</height>
@@ -62,26 +62,6 @@
 <div class="wp-block-file"><object class="wp-block-file__embed" data="https://gyespinoza.github.io/investigacion_estudiantil/wp-content/uploads/2023/05/Enfermedades-no-transmisibles-y-su-influencia-en-el-estilo-de-vida-3.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Enfermedades-no-transmisibles-y-su-influencia-en-el-estilo-de-vida-3."></object><a id="wp-block-file--media-143ae183-8bef-45f7-86b4-c39e6d72baed" href="https://gyespinoza.github.io/investigacion_estudiantil/wp-content/uploads/2023/05/Enfermedades-no-transmisibles-y-su-influencia-en-el-estilo-de-vida-3.pdf">Enfermedades-no-transmisibles-y-su-influencia-en-el-estilo-de-vida-3</a></div>
 ]]></content:encoded>
 					
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>https://gyespinoza.github.io/investigacion_estudiantil/index.php/2023/05/16/hello-world/</link>
-					<comments>https://gyespinoza.github.io/investigacion_estudiantil/index.php/2023/05/16/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 16 May 2023 17:40:54 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://gyespinoza.github.io/investigacion_estudiantil/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://gyespinoza.github.io/investigacion_estudiantil/index.php/2023/05/16/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
